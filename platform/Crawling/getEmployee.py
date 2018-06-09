@@ -7,7 +7,7 @@ from datetime import datetime
 
 ##api 가저오기
 
-url = "http://kosis.kr/openapi/statisticsData.do?method=getList&apiKey=NGFjZGY1NmEzYmUwMDhlNzk4NGE3ZThiN2ZkYTI0NTE=&format=json&jsonVD=Y&userStatsId=lsi8505/101/DT_1DA7C26/2/1/20160528171448&prdSe=M&newEstPrdCnt=1"
+url = "http://kosis.kr/openapi/statisticsData.do?method=getList&apiKey=API&format=json&jsonVD=Y&userStatsId=lsi8505/101/DT_1DA7C26/2/1/20160528171448&prdSe=M&newEstPrdCnt=1"
 
 
 
