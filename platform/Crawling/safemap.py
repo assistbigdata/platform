@@ -8,7 +8,7 @@ import urllib2
 import json
 from bs4 import BeautifulSoup
 
-api_key = "TORB5RPN-TORB-TORB-TORB-TORB5RPN25"
+api_key = "API_KEY"
 service = "WFS"
 version = "1.0.0"
 request = "GetFeature"
