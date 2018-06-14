@@ -1,3 +1,4 @@
+%spark
 sc.textFile("s3://kr.assist.2018.emr/data/obama.txt")
     .flatMap(_.split("\\s+"))
     .map(_.toLowerCase.replaceAll("\\W",""))
